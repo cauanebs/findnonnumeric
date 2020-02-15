@@ -1,0 +1,5 @@
+v 1.0
+d findnonnumeric. Package to find non numeric characters that are hidden within a string variable.
+d Developed by Cauane Blumenberg
+f findnonnumeric.ado
+f findnonnumeric.sthlp
